@@ -12,16 +12,8 @@ Here's a list of my research works
 <h1>List of Contents</h1>
 
 <ul>
-    <li><a href="#section1">Bagian 1</a></li>
-    <li><a href="#section2">Bagian 2</a></li>
-    <li><a href="#section3">Bagian 3</a></li>
+    <li><a href="#section1">Liga 1 Indonesia</a></li>
 </ul>
 
-<h2 id="section1">Bagian 1</h2>
-<p>Isi bagian 1...</p>
-
-<h2 id="section2">Bagian 2</h2>
-<p>Isi bagian 2...</p>
-
-<h2 id="section3">Bagian 3</h2>
-<p>Isi bagian 3...</p>
+<h2 id="section1">Liga 1 Indonesia</h2>
+<p>Statistical Analysis of Persebaya Surabaya 2023</p>
