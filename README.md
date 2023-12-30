@@ -1,25 +1,5 @@
 # **Publications**
-Here's a list of my research works
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+Paper
 
-<h1>List of Contents</h1>
-
-<ul>
-    <li><a href="#section1">Liga 1 Indonesia</a></li>
-</ul>
-
-<h2 id="section1">Liga 1 Indonesia</h2>
-<p>Statistical Analysis of Persebaya Surabaya 2023</p>
-<ul>
-    <li><a href="https://www.jawapos.com/sepak-bola/013654193/pemuda-ajaib-persebaya-surabaya-2023-siapa-pemain-muda-terbaik-yang-membuat-lawan-gentar">Best Young Player</a></li>
-</ul>
-
-</body>
-</html>
+* <a href="https://github.com/rizkyrautra/publications/blob/main/The%20Sociology%20of%20Islam%20Vol.%205%2C%20No.%201%2C%20(June%202022)%3B%20Murray%20Bookchin%3B%20Dari%20Bolshevik%20ke%20Marxis%20Otonomis.pdf" target="_blank">The Sociology of Islam Vol. 5, No. 1, (June 2022); Murray Bookchin; Dari Bolshevik ke Marxis Otonomis</a>
