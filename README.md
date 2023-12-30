@@ -1,4 +1,4 @@
-# **Works**
+# **Publications**
 Here's a list of my published works
 
 Paper
