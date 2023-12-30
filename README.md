@@ -6,7 +6,6 @@ Here's a list of my research works
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daftar Isi</title>
 </head>
 <body>
 
