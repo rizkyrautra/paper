@@ -9,7 +9,7 @@ Here's a list of my research works
 </head>
 <body>
 
-<h1>Daftar Isi</h1>
+<h1>List of Contents</h1>
 
 <ul>
     <li><a href="#section1">Bagian 1</a></li>
